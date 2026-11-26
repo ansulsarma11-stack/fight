@@ -1,0 +1,6 @@
+{
+  "name": "Arena Clash - 2D Arcade Fighter",
+  "description": "High-octane 2D retro arcade fighting game with muscular fighters, combos, special moves, AI opponent, responsive canvas, and synthesized Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
